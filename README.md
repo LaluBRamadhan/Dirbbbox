@@ -8,7 +8,7 @@
 ## Features
 
 - Belum kepikiran baru tampilan doang soalnya HAHAHAH.
-
+- Fiturnya bisa pindah pindah pages HAHAHA.
 
 ## Installation
 
